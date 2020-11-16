@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+
+}
+
+header{
+
+	background-color: #B11313;
+	text-align: center;
+
+}
+
+header h1{
+	color: white; 
+}
+
+header img{ 
+	border-radius: 150px;
+	border: 10px solid #447BBE;
+ }
